@@ -1,4 +1,5 @@
 # Churn-Analysis-Dashboard
+Churn Analysis using Power BI
 
 ## Overview
 This repository contains a **Churn Analysis Dashboard** built using **Power BI**. The dashboard provides insights into customer churn rates, reasons for churn, and trends based on tenure and data consumption.
